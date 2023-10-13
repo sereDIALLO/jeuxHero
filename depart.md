@@ -8,4 +8,4 @@ Liens vers d'autre lieux :
  - [Liens vers l'arret du tram](tram.md)
 
 
-Autrice : [ Ezidi Youssef](https://github.com/youssefezidi1)
+Auteur : [ Ezidi Youssef](https://github.com/youssefezidi1)
