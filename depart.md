@@ -1,5 +1,4 @@
-depart
-Voici notre point de depart c'est l' UCA
+Voici notre point de depart :  UCA
 ![Depart](https://www.uca.fr/medias/photo/pme01-e1481650866860_1593520333506-jpg)
 
 Liens vers d'autre lieux :
