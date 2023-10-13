@@ -3,8 +3,8 @@ Voici notre point de depart :  UCA
 
 Liens vers d'autre lieux :
 
- [Liens vers Cezeaux] (Cezeaux.md)
- [Liens vers l'arret du tram] (tram.md)
+ [Liens vers Cezeaux](cezeaux.md)
+ [Liens vers l'arret du tram](tram.md)
 
 
 Autrice : [ Ezidi Youssef]
