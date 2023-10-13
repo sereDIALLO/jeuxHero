@@ -1,11 +1,11 @@
 # UCA
 
-Bonjour!! Vous etes maintenant devant l'UCA, c'est votre point de depart.
-Votre destination est la salle SCI-006.
+- Bonjour!! Vous êtes maintenant devant l'UCA, c'est votre point de départ.
+- Destination -----> la salle SCI-006.
 
 ![Depart](https://www.uca.fr/medias/photo/pme01-e1481650866860_1593520333506-jpg)
 
-Vous pouvez choisir l'un des lieux suivante  :
+Vous pouvez choisir l'un des lieux suivants  :
 
  - [Liens vers Cezeaux](cezeaux.md)
  - [Liens vers l'arret du tram](tram.md)
