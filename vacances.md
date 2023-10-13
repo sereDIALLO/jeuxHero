@@ -1,3 +1,3 @@
-Vacances ? Sérieusement ? Nous sommes en octobre, l'été est fini depuis un moment. Vous attendiez-vous à des palmiers et à des cocktails ? Non, non, retournez et prenez le [tram](tram.md), s'il daigne sortir de sa grève. Bonne chance, aventurier intrépide !
+"Vacances ? En octobre ? Vraiment, vous m'étonnez ! Vous savez, les licornes et les sirènes ne sont pas réels non plus. Mais bon, allons voir si nous pouvons trouver un peu de magie ailleurs, hein ?" 🌈🦄
 
 Auteur: [Rahoui Aymen](github.com/aymenrahoui)
