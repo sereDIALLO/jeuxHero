@@ -5,8 +5,8 @@
 
 Liens vers d'autres lieux:
 
--[Lien vers EUPI](eupi.md)
+- [Lien vers EUPI](eupi.md)
 
--[Lien vers Parking](parking.md)
+- [Lien vers Parking](parking.md)
 
 Auteur : [Ezidi Youssef](https://github.com/youssefezidi1)
