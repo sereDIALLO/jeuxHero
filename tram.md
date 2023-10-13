@@ -1,4 +1,4 @@
-Félicitations, vous avez atteint la 'station du train' ! Malheureusement, tout ce que vous trouverez ici, ce sont des rêves brisés et des rails désespérément vides, comme votre réfrigérateur un jour de nettoyage.
+Félicitations, vous avez atteint la 'station du tram' ! Malheureusement, tout ce que vous trouverez ici, ce sont des rêves brisés et des rails désespérément vides, comme votre réfrigérateur un jour de nettoyage.
 
 ![Gare Déserte](https://fastly.4sqi.net/img/general/600x600/41305124_Y_x5Wwx1tIfgBPWtREeclx1cFZxQtqU1Dhm1_W0KT-I.jpg)
 
