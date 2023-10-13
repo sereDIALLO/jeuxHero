@@ -10,7 +10,7 @@ Maintenant, vous avez deux options, comme si vous n'en aviez pas déjà assez :
 
 Oh, et pour le choix bonus... allez en vacances ! Oui, vous avez bien entendu, partez à l'aventure dans le monde mystérieux de l'option 3. Attention, elle pourrait contenir de l'amusement, du soleil et des souvenirs. C'est à vos risques et périls ! 🌴🍹
 cliquez sur l'image !
-[![vacances](https://th.bing.com/th/id/OIP.Bik4tiwwdINyflg-QDUaPgHaFj?pid=ImgDet&rs=1)](vacance.md)
+[![vacances](https://th.bing.com/th/id/OIP.Bik4tiwwdINyflg-QDUaPgHaFj?pid=ImgDet&rs=1)](vacances.md)
 
 
 Auteur: [Rahoui Aymen](https://github.com/Aymenrahoui)
