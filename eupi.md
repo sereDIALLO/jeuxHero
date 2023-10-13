@@ -5,7 +5,7 @@
 Liens vers d'autres lieux :
 
 - [Lien vers Hall](hall.md)
-- [Lien vers la salle SCI_006](salle.md)
+- [Lien vers la salle SCI_006](arrive.md)
 
 
 
