@@ -1,0 +1,1 @@
+Vacances ? Sérieusement ? Nous sommes en octobre, l'été est fini depuis un moment. Vous attendiez-vous à des palmiers et à des cocktails ? Non, non, retournez et prenez le [tram](tram.md), s'il daigne sortir de sa grève. Bonne chance, aventurier intrépide !
