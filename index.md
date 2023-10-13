@@ -1,7 +1,7 @@
 # UCA
 
 - Bonjour!! Vous êtes maintenant devant l'UCA, c'est votre point de départ.
-- Destination -----> Salle SCI-006.
+- Destination -----> ????.
 
 ![Depart](https://www.uca.fr/medias/photo/pme01-e1481650866860_1593520333506-jpg)
 
