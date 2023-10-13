@@ -7,4 +7,4 @@ Liens vers d'autres lieux:
 
 -[Lien vers EUPI](eupi.md)
 
-Auteur : [Ezidi Youssef]()
+Auteur : [Ezidi Youssef](https://github.com/youssefezidi1)
