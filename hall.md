@@ -4,6 +4,6 @@
 Lien vers d'autres lieux 
  - [Lien vers Parking](parking.md)
   
- - [Lien vers La salle d'arrivée](arrive.md)
+ - [Lien vers La salle de tp](arrive.md)
 
  - Auteur: [Marwane BEL HAMRA](https://github.com/BLHmar1) 
